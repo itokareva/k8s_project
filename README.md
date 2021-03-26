@@ -16,4 +16,17 @@
     - [x] -  CHANGELOG с описанием выполненной работы
 
 
+## Концеация проектной работы
+
+- [x] Создание managed мульти-кластера (GCP+Istio), код в terraform
+   - [x] Staging
+   - [x] Production 
+- [x] Скрипты для развертывания Prometheus, Grafana, Flux, Loki, Yager, код в helmfile
+- [x] GitLab - SaaS
+- [x] Скрипты для развертывания приложения, код helm (?)
+
+Посмотреть AQ лекцию по мультикластеру.
+посмотеть домашку по GitOps по pipeline для развертывания кластера (staging) и helmcharts с помощью MakeFile
+
+
 
