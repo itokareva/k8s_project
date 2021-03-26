@@ -1,6 +1,6 @@
 ## подготовка MVP инфраструктурной платформы для приложения-примера
 
-Для развертывания выбрано мультикомпонентное приложение от Google [Online Boutique] (https://github.com/GoogleCloudPlatform/microservices-demo).
+Для развертывания выбрано мультикомпонентное приложение от Google [Online Boutique](https://github.com/GoogleCloudPlatform/microservices-demo).
 
 ## Требования к проектной работе:
 
